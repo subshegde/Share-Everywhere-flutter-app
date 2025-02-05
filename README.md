@@ -17,6 +17,11 @@ Looking for a seamless way to share content across multiple social platforms in 
 dependencies:
   share_everywhere: ^1.0.0  # Use the latest version
 
+Screenshots :
+
+![share_everywhere-1](https://github.com/user-attachments/assets/05eb1558-4b20-4690-a0c9-2ba998c74265)
+
+
 
 2. Implement the ShareController in your Flutter app
 
