@@ -1,5 +1,9 @@
 # share_everywhere 🚀
 
+![share_everywhere-2](https://github.com/user-attachments/assets/880b4812-5c37-402e-9515-1d4fa39cff26)
+![share_everywhere-1](https://github.com/user-attachments/assets/9606e958-5326-4635-8136-043a6d8dc886)
+
+
 Effortless Social Sharing in Flutter with `share_everywhere`! 🌍📲
 
 Looking for a seamless way to share content across multiple social platforms in your Flutter app? Meet `share_everywhere`, a powerful package that allows you to integrate social sharing with just a few lines of code!
@@ -18,9 +22,8 @@ dependencies:
   share_everywhere: ^1.0.0  # Use the latest version
 
 Screenshots :
-
-![share_everywhere-1](https://github.com/user-attachments/assets/05eb1558-4b20-4690-a0c9-2ba998c74265)
-
+![share_everywhere-1](https://github.com/user-attachments/assets/ff6505f2-bf53-4e51-9732-a5d838b5fc6a)
+![share_everywhere-2](https://github.com/user-attachments/assets/10235731-6952-4422-939d-3fd72eb923f8)
 
 
 2. Implement the ShareController in your Flutter app
